@@ -12270,7 +12270,7 @@
             metrics: {
               shadowMapSize: 4,
               steerSpeed: 1.57,
-              accel: 11,
+              accel: 1100,
               reverse: 5,
               jerk: 48,
               brake: 8,
@@ -12280,7 +12280,7 @@
               dampening: 0.08,
               rockFactor: 5,
               drag: 0.001,
-              topSpeed: 53,
+              topSpeed: 53000000000,
               rollResistance: 0.04,
               steerInterval: 1.8,
               slipBase: 1,
@@ -12551,7 +12551,7 @@
       const vehicleMap = {
           Roadster: vehicles.Roadster,
           Bike: vehicles.Bike,
-          Coach: vehicles.Bus,
+          Coach: vehicles.Rover,
           Lambo: vehicles.Lambo,
           Supercar: vehicles.Supercar,
         },
