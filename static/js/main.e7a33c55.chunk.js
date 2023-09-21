@@ -12549,7 +12549,7 @@
           },
         };
       const vehicleMap = {
-          Roadster: vehicles.Roadster,
+          Roadster: vehicles.Debug,
           Bike: vehicles.Bike,
           Coach: vehicles.Rover,
           Lambo: vehicles.Lambo,
