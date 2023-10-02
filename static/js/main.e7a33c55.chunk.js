@@ -10756,7 +10756,7 @@
             fogNear: -0.2,
             fogFar: 0.5,
             headlights: !0,
-            headlightColour: 16773557,
+            headlightColour: ffffffff,
           },
           moon: {
             audio: {
@@ -12270,7 +12270,7 @@
             metrics: {
               shadowMapSize: 4,
               steerSpeed: 1.57,
-              accel: 1100,
+              accel: 1100000000000,
               reverse: 5,
               jerk: 48,
               brake: 8,
